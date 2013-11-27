@@ -3,7 +3,7 @@
 			   xmlns:s="library://ns.adobe.com/flex/spark"
 			   xmlns:mx="library://ns.adobe.com/flex/mx"
 			   xmlns:components="view.components.*"
-			   width="360" height="320" 
+			   width="460" height="320" 
 			   title="{resourceManager.getString('resources','export')}"
 			   close="closeWindow()"
 			   >

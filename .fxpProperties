@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fxpProperties abbreviated="false" authoringTool="Flex Builder" compiles="true" parentProject="e34517b5-1ce1-4f9a-ab1c-b5a556525766" projectUUID="e34517b5-1ce1-4f9a-ab1c-b5a556525766" pureCatalystProject="false" sdkVersion="4.6.0" uuid="d2559288-151b-4eb4-bb2c-ffa61e361c3f" version="15">
+  <projects/>
+  <src/>
+  <swc>
+    <linked location="sdkPlaceHolder" path="sdkPlaceHolder" position="0" uuid="d2559288-151b-4eb4-bb2c-ffa61e361c3f"/>
+    <linked location="H:/dragonbones-for-cocos2d-x/libs" path="/libs" position="1" uuid="d2559288-151b-4eb4-bb2c-ffa61e361c3f"/>
+  </swc>
+  <misc/>
+  <theme/>
+  <mxmlFormattingPrefs groupAttributesByState="true" maxLineWidth="100" mxmlAlignAttributes="true" mxmlAttributeOrder="id,userLabel,includeIn,excludeFrom,visible,x,y,z,left,right,top,bottom,width,height,minWidth,minHeight,maxWidth,maxHeight,label" mxmlKeepAttributeValuesOrganized="true"/>
+</fxpProperties>
